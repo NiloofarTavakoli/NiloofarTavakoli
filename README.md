@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiloofarTavakoli
 - 👀 I’m interested in Computational Neuroscience 
 - 🌱 I’m currently learning cross-modal plasticity
-- 💞️ I’m looking to collaborate on AI and Computational Neuroscience Projects
+- 💞️ I’m looking to collaborate on Computational Neuroscience Projects
 - 📫 How to reach me @niloofartavakoli1993@gmail.com
 
 <!---
